@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\bin\Debug\Embed Google maps.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\bin\Debug\Embed Google maps.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\bin\Debug\Embed Google maps.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\obj\Debug\Embed Google maps.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\obj\Debug\Embed_Google_maps.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\obj\Debug\Embed_Google_maps.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\obj\Debug\Embed Google maps.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\obj\Debug\Embed Google maps.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Embed Google maps\obj\Debug\Embed Google maps.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Embed Google maps\Embed Google maps\bin\Debug\Embed Google maps.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Embed Google maps\Embed Google maps\obj\Debug\Embed Google maps.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Embed Google maps\Embed Google maps\obj\Debug\Embed Google maps.pdb
